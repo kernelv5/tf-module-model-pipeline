@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# 1.0.0 (2024-01-16)
+
+
+### Features
+
+* init stage ([8374775](https://github.com/kernelv5/tf-module-model-pipeline/commit/8374775e37bc42cbfcf979bcd3273c2e37c1d373))
+
 # [1.1.0](https://github.com/mohakar2022/iac_module_pipeline/compare/v1.0.2...v1.1.0) (2024-01-16)
 
 
