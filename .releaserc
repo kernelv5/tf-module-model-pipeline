@@ -1,6 +1,6 @@
 {
   "branches": "master",
-  "repositoryUrl": "https://github.com/mohakar2022/iac_module_pipeline",
+  "repositoryUrl": "https://github.com/kernelv5/tf-module-model-pipeline.git",
   "debug": "false",
   "plugins": [
     "@semantic-release/commit-analyzer",
