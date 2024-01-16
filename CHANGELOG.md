@@ -1,5 +1,17 @@
 # Semantic Versioning Changelog
 
+# [2.0.0](https://github.com/kernelv5/tf-module-model-pipeline/compare/v1.1.0...v2.0.0) (2024-01-16)
+
+
+### Features
+
+* adding a normal line ([2529ff1](https://github.com/kernelv5/tf-module-model-pipeline/commit/2529ff18a49c22499ed49a7c676d215b02a11034))
+
+
+### BREAKING CHANGES
+
+* with this keywork will relase a Majore Version
+
 # [1.1.0](https://github.com/kernelv5/tf-module-model-pipeline/compare/v1.0.0...v1.1.0) (2024-01-16)
 
 
