@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [2.1.0](https://github.com/kernelv5/tf-module-model-pipeline/compare/v2.0.0...v2.1.0) (2024-01-17)
+
+
+### Features
+
+* adding a normal lin ([d66d133](https://github.com/kernelv5/tf-module-model-pipeline/commit/d66d13366a9f126e38c7f91054494c2721cd9a6f))
+
 # [2.0.0](https://github.com/kernelv5/tf-module-model-pipeline/compare/v1.1.0...v2.0.0) (2024-01-16)
 
 
